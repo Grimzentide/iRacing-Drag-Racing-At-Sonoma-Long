@@ -30,25 +30,37 @@ Give the site and the unique id from step 3 to your competitors
 ###The following variables are avalable to be used
 ####Left Lane
 #####Text Widgets
-```
-datasources["Dweet.io"]["leftUserName"]
-datasources["Dweet.io"]["leftLaneDistanceFromRaceReady"] .toFixed(1)
-```
+This is the competitors name in the left lane
+`datasources["Dweet.io"]["leftUserName"]`
+
+This is how far in metres the are from being race ready
+`datasources["Dweet.io"]["leftLaneDistanceFromRaceReady"] .toFixed(1)`
+
 #####Indicator Light Widgets
-```
-datasources["Dweet.io"]["leftLaneOverStaging"]
-datasources["Dweet.io"]["leftLaneStaging"]
-datasources["Dweet.io"]["leftLanePreStaging"]
-```
+Over staging - ie Too far foward
+`datasources["Dweet.io"]["leftLaneOverStaging"]`
+
+Ready to race - ie Car is staged
+`datasources["Dweet.io"]["leftLaneStaging"]`
+
+Pre-staged - ie on the strip and F11 or F12 has been pressed to indicate their lane
+`datasources["Dweet.io"]["leftLanePreStaging"]`
+
 
 ####Right Lane
-```
-datasources["Dweet.io"]["rightUserName"]
-datasources["Dweet.io"]["rightLaneDistanceFromRaceReady"] .toFixed(1)
-```
+#####Text Widgets
+This is the competitors name in the left lane
+`datasources["Dweet.io"]["rightUserName"]`
+
+This is how far in metres the are from being race ready
+`datasources["Dweet.io"]["rightLaneDistanceFromRaceReady"] .toFixed(1)`
+
 #####Indicator Light Widgets
-```
-datasources["Dweet.io"]["rightLaneOverStaging"]
-datasources["Dweet.io"]["rightLaneStaging"]
-datasources["Dweet.io"]["rightLanePreStaging"]
-```
+Over staging - ie Too far foward
+`datasources["Dweet.io"]["rightLaneOverStaging"]`
+
+Ready to race - ie Car is staged
+`datasources["Dweet.io"]["rightLaneStaging"]`
+
+Pre-staged - ie on the strip and F11 or F12 has been pressed to indicate their lane
+`datasources["Dweet.io"]["rightLanePreStaging"]`
