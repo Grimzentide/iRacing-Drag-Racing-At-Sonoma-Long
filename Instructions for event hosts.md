@@ -22,6 +22,8 @@ Click the plus sign on one of the panes and select 'Indicator Light'
 Fill in the desired fields and add a data source.  Data sources and recommended widget types are listed below to help you
 ![](http://i.imgur.com/UdlBcbI.png)
 
+###[Here is how I setup my staging site](https://freeboard.io/board/2KJsA8)
+
 ###Step 7:
 Give the site and the unique id from step 3 to your competitors
 
