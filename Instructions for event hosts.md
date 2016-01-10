@@ -27,6 +27,9 @@ Fill in the desired fields and add a data source.  Data sources and recommended 
 ###Step 7:
 Give the site URL and the unique id from step 3 to your competitors
 
+###Step 8:
+Start a hosted session on Sonoma Long and invite people to join
+
 ###The following variables are avalable to be used
 ####Left Lane
 #####Text Widgets
