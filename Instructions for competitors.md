@@ -21,7 +21,9 @@ Chrome tested and works
 #####Android
 Untested
 
-##Watch this video to see what you need to do at the Sonoma Long circuit
+###Watch this video to see what you need to do at the Sonoma Long circuit
+
+###Update: If you do a 'U turn' in a hosted session you will be disqualified. You have to drive half the track.  The 'U turn' method works in offline testing sessions only.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=UAFfAMKm1w0
 " target="_blank"><img src="http://img.youtube.com/vi/UAFfAMKm1w0/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
