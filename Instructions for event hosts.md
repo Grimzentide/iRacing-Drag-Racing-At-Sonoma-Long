@@ -25,7 +25,7 @@ Fill in the desired fields and add a data source.  Data sources and recommended 
 ###[Here is how I setup my staging site](https://freeboard.io/board/2KJsA8)
 
 ###Step 7:
-Give the site and the unique id from step 3 to your competitors
+Give the site URL and the unique id from step 3 to your competitors
 
 ###The following variables are avalable to be used
 ####Left Lane
