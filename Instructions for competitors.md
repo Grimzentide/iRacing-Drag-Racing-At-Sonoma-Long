@@ -12,13 +12,13 @@ Double click the exe file and enter the code given to you by the organiser
 ###Step 4:
 Load the drag staging website (FreeBoard.io) given to you by the organiser on a screen or smart device
 
-####Windows PC
+#####Windows PC
 Chrome tested and works
 
-####IOS
+#####IOS
 *Chrome on IOS has some issues but the works well with Safari
 
-####Android
+#####Android
 Untested
 
 ##Watch this video to see what you need to do at the Sonoma Long circuit
